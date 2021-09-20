@@ -1,5 +1,5 @@
 # DEMO
-Repo for testing
+This is the conflicting line
 
 We will work with this repo for the BIOINF 575 class
 
